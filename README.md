@@ -46,14 +46,23 @@ Authors that submit modified code that is later added into the publically availa
 Credits
 
 Lithial
+
 Glidar521al
+
 Freyja
+
 Darkhax
+
 Lclc98
+
 CoolAlias
+
 The code for Magnet was borrowed from electrodynamics
+
 The code for Heat was written by MetroidMan347
+
 WildBamaBoy From whom i swiped this licence :P
+
 And probably countless others that i forget. I've been at this a while remember
 
 If you wanna be on the credits list and I've forgotten you. Let me know
