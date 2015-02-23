@@ -1,0 +1,35 @@
+#lang file created by lithial
+
+#Enchantments
+enchantment.me.minecraft:highjump=HighJump
+enchantment.me.minecraft:swiftness=Swiftness
+enchantment.me.minecraft:cloud=Cloud
+enchantment.me.minecraft:regen=Regeneration
+enchantment.me.minecraft:horticulture=Horticulture
+enchantment.me.minecraft:slowarrow=Slow Arrow
+enchantment.me.minecraft:poisonarrow=Poison Arrow
+enchantment.me.minecraft:witherarrow=Wither Arrow
+enchantment.me.minecraft:slowaspect=Lethargy
+enchantment.me.minecraft:poisonaspect=Poison Aspect
+enchantment.me.minecraft:witheraspect=Wither Aspect
+enchantment.me.minecraft:slowaoe=Slow AOE
+enchantment.me.minecraft:poisonaoe=Poison AOE
+enchantment.me.minecraft:witheraoe=Wither AOE
+enchantment.me.minecraft:verticallity=Verticallity
+enchantment.me.minecraft:blast=Blast
+enchantment.me.minecraft:leech=Leech
+enchantment.me.minecraft:wisdom=Wisdom
+enchantment.me.minecraft:magnet=Magnet
+enchantment.me.minecraft:vigor=Vigor
+enchantment.me.minecraft:nightvision=Night Vision
+enchantment.me.minecraft:quickdraw=Quick Draw
+enchantment.me.minecraft:steadfast=SteadFast
+enchantment.me.minecraft:icestep=Ice Step
+enchantment.me.minecraft:photosynthesis=PhotoSynthesis
+enchantment.me.minecraft:heat=Heat
+enchantment.me.minecraft:antivenom=AntiVenom
+enchantment.me.minecraft:homing=Homing
+enchantment.me.minecraft:multipurpose=MultiPurpose
+enchantment.me.minecraft:greenwood=GreenWood
+enchantment.me.minecraft:disarm=Disarm
+

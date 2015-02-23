@@ -1,0 +1,31 @@
+//reverse switch statements
+//tone down photo && add config
+//fix homing and horticulture maybe
+//fixed homing +1
+//horticulture config settings
+//Add triggers for highjump
+//fix antivenom
+//add config changes for times and settings
+// multipurpose
+//greenwood
+//disarm on 1.8
+//horticulture on 1.8
+
+
+
+counterparry 30%
+homing on 1.8
+sunder?
+enderrift?
+
+Counter Parry :
+If you time your parries correctly within 0.75 seconds of the hit
+(without spamming the right mouse button) you can:
+Reduce damage by 1/2 heart * (parry level+1);
+Block blaze/dispensor fireballs.
+Apply damage to attacker (upto 1/2 heart per (parry_level +1)).
+Slow attacker down for 1.5 seconds (again dependant on parry level).
+Arrow Redirection:
+LVL1-Parry: Arrows randomly deflected
+LVL2-Parry: Arrows reflected back at source at 66% of the speed.
+Increased damage on arrow;
